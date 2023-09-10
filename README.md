@@ -52,7 +52,7 @@ In the modern business landscape, Customer Relationship Management (CRM) systems
   - **Attachments:** Upload documents, presentations, or files related to records.
   - **Tasks:** Create to-do items for yourself or team members, linked to specific records.
 
-## Conclusion
+## Zoho CRM
 
 Building our first CRM system is an exciting journey. With Zoho CRM as our tool, we will streamline our processes, organize our data effectively, and provide better customer service. In the next chapters, we will dive deeper into configuring our CRM, automating workflows, and maximizing its potential to drive growth and success in our business.
 
